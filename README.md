@@ -16,7 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
-- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) — Base mainnet x402 paid inference gateway (chat $0.001 USDC, research report $2); free discovery at [/.well-known/x402](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402). Affiliation: project maintainer.
+- [Clarity](https://flipperspectives-crypto.github.io/clarity-docs/) — Base mainnet x402 paid inference gateway (chat $0.001 USDC, research report $2); free discovery at [/.well-known/x402](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402). Affiliation: project maintainer.
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
